@@ -26,13 +26,9 @@ For each user, it:
 
 Outputs credentials (matricule and password) to ``credentials.txt`` to keep track.
 
-How to use : <br>
 
-- !!Make sure pwgen is installed before running the script.!!
+**!!Make sure pwgen is installed before running the script.!!**
 
-- Put your user data in ``users.csv`` with the specified format.
-
-- Check the output file ``credentials.txt`` for the generated passwords
 
 
 # Author of the exercise
